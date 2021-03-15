@@ -1,0 +1,12 @@
+C:\Users\Administrator\Desktop\PE_Manage\IService\bin\Debug\netcoreapp3.1\IService.deps.json
+C:\Users\Administrator\Desktop\PE_Manage\IService\bin\Debug\netcoreapp3.1\IService.dll
+C:\Users\Administrator\Desktop\PE_Manage\IService\bin\Debug\netcoreapp3.1\IService.pdb
+C:\Users\Administrator\Desktop\PE_Manage\IService\bin\Debug\netcoreapp3.1\Model.dll
+C:\Users\Administrator\Desktop\PE_Manage\IService\bin\Debug\netcoreapp3.1\Model.pdb
+C:\Users\Administrator\Desktop\PE_Manage\IService\obj\Debug\netcoreapp3.1\IService.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\PE_Manage\IService\obj\Debug\netcoreapp3.1\IService.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\PE_Manage\IService\obj\Debug\netcoreapp3.1\IService.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\PE_Manage\IService\obj\Debug\netcoreapp3.1\IService.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\PE_Manage\IService\obj\Debug\netcoreapp3.1\IService.csproj.CopyComplete
+C:\Users\Administrator\Desktop\PE_Manage\IService\obj\Debug\netcoreapp3.1\IService.dll
+C:\Users\Administrator\Desktop\PE_Manage\IService\obj\Debug\netcoreapp3.1\IService.pdb

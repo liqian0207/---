@@ -1,0 +1,16 @@
+C:\Users\Administrator\Desktop\PE_Manage\Service\bin\Debug\netcoreapp3.1\Service.deps.json
+C:\Users\Administrator\Desktop\PE_Manage\Service\bin\Debug\netcoreapp3.1\Service.dll
+C:\Users\Administrator\Desktop\PE_Manage\Service\bin\Debug\netcoreapp3.1\Service.pdb
+C:\Users\Administrator\Desktop\PE_Manage\Service\bin\Debug\netcoreapp3.1\IRepository.dll
+C:\Users\Administrator\Desktop\PE_Manage\Service\bin\Debug\netcoreapp3.1\IService.dll
+C:\Users\Administrator\Desktop\PE_Manage\Service\bin\Debug\netcoreapp3.1\Model.dll
+C:\Users\Administrator\Desktop\PE_Manage\Service\bin\Debug\netcoreapp3.1\IRepository.pdb
+C:\Users\Administrator\Desktop\PE_Manage\Service\bin\Debug\netcoreapp3.1\IService.pdb
+C:\Users\Administrator\Desktop\PE_Manage\Service\bin\Debug\netcoreapp3.1\Model.pdb
+C:\Users\Administrator\Desktop\PE_Manage\Service\obj\Debug\netcoreapp3.1\Service.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\PE_Manage\Service\obj\Debug\netcoreapp3.1\Service.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\PE_Manage\Service\obj\Debug\netcoreapp3.1\Service.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\PE_Manage\Service\obj\Debug\netcoreapp3.1\Service.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\PE_Manage\Service\obj\Debug\netcoreapp3.1\Service.csproj.CopyComplete
+C:\Users\Administrator\Desktop\PE_Manage\Service\obj\Debug\netcoreapp3.1\Service.dll
+C:\Users\Administrator\Desktop\PE_Manage\Service\obj\Debug\netcoreapp3.1\Service.pdb

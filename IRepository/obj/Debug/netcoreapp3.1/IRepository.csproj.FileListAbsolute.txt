@@ -1,0 +1,12 @@
+C:\Users\Administrator\Desktop\PE_Manage\IRepository\bin\Debug\netcoreapp3.1\IRepository.deps.json
+C:\Users\Administrator\Desktop\PE_Manage\IRepository\bin\Debug\netcoreapp3.1\IRepository.dll
+C:\Users\Administrator\Desktop\PE_Manage\IRepository\bin\Debug\netcoreapp3.1\IRepository.pdb
+C:\Users\Administrator\Desktop\PE_Manage\IRepository\bin\Debug\netcoreapp3.1\Model.dll
+C:\Users\Administrator\Desktop\PE_Manage\IRepository\bin\Debug\netcoreapp3.1\Model.pdb
+C:\Users\Administrator\Desktop\PE_Manage\IRepository\obj\Debug\netcoreapp3.1\IRepository.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\PE_Manage\IRepository\obj\Debug\netcoreapp3.1\IRepository.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\PE_Manage\IRepository\obj\Debug\netcoreapp3.1\IRepository.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\PE_Manage\IRepository\obj\Debug\netcoreapp3.1\IRepository.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\PE_Manage\IRepository\obj\Debug\netcoreapp3.1\IRepository.csproj.CopyComplete
+C:\Users\Administrator\Desktop\PE_Manage\IRepository\obj\Debug\netcoreapp3.1\IRepository.dll
+C:\Users\Administrator\Desktop\PE_Manage\IRepository\obj\Debug\netcoreapp3.1\IRepository.pdb
